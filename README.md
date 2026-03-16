@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 I'm a **TY B.Tech Computer Engineering Student**.
 - 💻 **Full Stack Web and App Developer** with a focus on scalable solutions.
-- 🔭 Currently working on: [**KitUp**](https://kitup.netlify.app) and [**Tadipaar**](https://github.com/satalgo/tadipaar)
+- 🔭 Currently working on: [**KitUp**](https://kitup.netlify.app), [**Library Management System**]([https://kitup.netlify.app](https://github.com/satalgo/lms)) and [**Tadipaar**](https://github.com/satalgo/tadipaar)
 - 📚 Currently mastering: **Data Structures & Algorithms (DSA)**.
 - 📫 Reach me at: **Satyam.m.gaikwad@gmail.com**
 
@@ -39,4 +39,6 @@
 
 ---
 
-> "LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts." — **Edsger W. Dijkstra**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
