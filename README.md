@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 I'm a **TY B.Tech. Computer Science Student**.
+- 🎓 I'm a **TY B.Tech Computer Engineering Student**.
 - 💻 **Full Stack Web and App Developer** with a focus on scalable solutions.
 - 🔭 Currently working on: [**KitUp**](https://kitup.netlify.app) and [**Tadipaar**](https://github.com/satalgo)
 - 📚 Currently mastering: **Data Structures & Algorithms (DSA)**.
