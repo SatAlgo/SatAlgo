@@ -4,10 +4,10 @@
 ---
 
 ### 🚀 About Me
+- 🌍 Check out my **[Portfolio](https://satyamgaikwad.netlify.app)**
 - 🎓 I'm a **TY B.Tech Computer Engineering Student**.
 - 💻 **Full Stack Web and App Developer** with a focus on scalable solutions.
-- 🔭 Currently working on: [**KitUp**](https://kitup.netlify.app), [**Library Management System**](https://github.com/satalgo/lms) and [**Tadipaar**](https://github.com/satalgo/tadipaar)
-- 📚 Currently mastering: **Data Structures & Algorithms (DSA)**.
+- 🔭 **Currently:** Building [**KitUp**](https://kitup.netlify.app) and mastering **Data Structures & Algorithms (DSA)**.
 - 📫 Reach me at: **Satyam.m.gaikwad@gmail.com**
 
 ---
