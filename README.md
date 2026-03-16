@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 I'm a **TY B.Tech Computer Engineering Student**.
 - 💻 **Full Stack Web and App Developer** with a focus on scalable solutions.
-- 🔭 Currently working on: [**KitUp**](https://kitup.netlify.app) and [**Tadipaar**](https://github.com/satalgo)
+- 🔭 Currently working on: [**KitUp**](https://kitup.netlify.app) and [**Tadipaar**](https://github.com/satalgo/tadipaar)
 - 📚 Currently mastering: **Data Structures & Algorithms (DSA)**.
 - 📫 Reach me at: **Satyam.m.gaikwad@gmail.com**
 
@@ -34,3 +34,9 @@
 <a href="https://www.hackerrank.com/satyam_m_gaikwad" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://kaggle.com/satyamgaikwad2025" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </p>
+
+<br />
+
+---
+
+> "LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts." — **Edsger W. Dijkstra**
