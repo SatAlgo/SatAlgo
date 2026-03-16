@@ -7,11 +7,17 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 **Currently working on:** [Tadipaar](https://github.com/satalgo)
-- 👨‍💻 **Portfolio:** [satyamgaikwad.netlify.app](https://satyamgaikwad.netlify.app)
-- 📫 **Contact:** Satyam.m.gaikwad@gmail.com
-- ⚡ **Fun Fact:** I enjoy solving complex problems across the full stack—from hardware (Arduino) to high-level web frameworks.
+### 🌅 My Philosophy
+> "LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts." — **Edsger W. Dijkstra**
+
+**Rise Again:** I believe you can start from anywhere; your past doesn't define your trajectory, only your next line of code does.
+
+---
+
+### 🚀 Current Focus
+- 🔭 **Working on:** [Tadipaar](https://github.com/satalgo) — My primary development project.
+- 🌱 **Learning:** Currently diving deeper into scalable system architecture and performance optimization.
+- 📫 **Reach me:** Satyam.m.gaikwad@gmail.com
 
 ---
 
@@ -35,10 +41,4 @@
 <a href="https://codeforces.com/profile/satalgo" target="blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/satyam_m_gaikwad" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://kaggle.com/satyamgaikwad2025" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
