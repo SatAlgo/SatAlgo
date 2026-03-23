@@ -30,9 +30,9 @@
 
 ## 🚀 Featured Projects
 
-* 🚀 **KitUp** – Developer tool management platform
-* 📚 **Library Management System** – Book & user management system
-* 💼 **Fiverr Clone** – Freelancing platform UI
+* 🚀 **KitUp** – Student resource platform for managing timetables, notes, housing, projects, and marketplace services  
+* 📚 **Library Management System** – System for managing books, users, and issue/return operations  
+* 💼 **Fiverr Clone** – Full-stack freelancing platform with user authentication, gig listings, and responsive UI  
 
 ---
 
