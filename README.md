@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">👨🏻‍💻 Software Engineer | Full Stack Developer | DSA Enthusiast</h3>
 
 ---
 
@@ -70,6 +70,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SatAlgo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatAlgo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatAlgo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 💻 Coding Profiles
 
 <p align="center">
@@ -105,8 +118,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
